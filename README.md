@@ -1,7 +1,5 @@
 ### Hi there 👋
-My name is Scott
-<br />
-Pronouns: He/Him
+My name is Scott (He/Him)
 
 <!--
 **scott-park1/scott-park1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
