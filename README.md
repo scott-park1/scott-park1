@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Scott (He/Him)
+My name is Scott (He/Him).
+<br />
+I am a compassionate software developer dedicated to creating a positive impact with any team.
 
 <!--
 **scott-park1/scott-park1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
